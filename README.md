@@ -93,8 +93,9 @@ The project includes a predictive application that allows users to manually inpu
 ---
 
 ## 👩‍💻 Team Members
-Subhasree Yenigalla   
 Jahnavi 
+Subhasree Yenigalla
+
 
 ---
 
